@@ -4,7 +4,7 @@ title: Stop Exposing Comrades
 ---
 
 # Stop exposing your comrades!
-# ![Photo](https://www.wweek.com/resizer/_z_ugGg9RNzEAJ66JzidurVFWK8=/1200x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/wweek/wp-content/uploads/2020/05/31224313/7837096459248112771.jpg)
+# ![Photo](https://64.media.tumblr.com/0614baaedb697cc9e79e50946fc5f04a/tumblr_n1adbvxkLh1rspiqto1_500.png)
 
 <table>
 <tr>
@@ -31,11 +31,11 @@ Hopefully soon we will have it in app store
 - [Download Here](https://developer.apple.com/xcode/) 
 
 ### Then download the app
--Then [Download]() and unzip the app file
+- Then [Download]() and unzip the app file
 
 ### Open Xcode and select the file.
 
--Follow this [tutorial](https://codewithchris.com/deploy-your-app-on-an-iphone/) and you should have the app downloaded on your device.
+- Follow this [tutorial](https://codewithchris.com/deploy-your-app-on-an-iphone/) and you should have the app downloaded on your device.
 
 ### Get your rtmp key 
 #### List Of Links
