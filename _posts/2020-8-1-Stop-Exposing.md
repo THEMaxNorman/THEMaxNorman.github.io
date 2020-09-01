@@ -31,7 +31,7 @@ Hopefully soon we will have it in app store
 - [Download Here](https://developer.apple.com/xcode/) 
 
 ### Then download the app
-- Then [Download]() and unzip the app file
+- Then [Download](https://github.com/THEMaxNorman/Ididntseeshit/archive/master.zip) and unzip the app file
 
 ### Open Xcode and select the file.
 
