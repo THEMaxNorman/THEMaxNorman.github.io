@@ -5,7 +5,7 @@ title: Stop Exposing Comrades
 
 # Stop exposing your comrades!
 # ![Photo](https://64.media.tumblr.com/0614baaedb697cc9e79e50946fc5f04a/tumblr_n1adbvxkLh1rspiqto1_500.png)
-
+# [Github](https://github.com/THEMaxNorman/Ididntseeshit)
 <table>
 <tr>
 <td>
